@@ -1,5 +1,5 @@
 - \[ \] task list
 - \[ \] task list
 - \[ \] task list
-- \[ \] task list
+- [x] task list
 - \[x\] task list
