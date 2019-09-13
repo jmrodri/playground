@@ -2,4 +2,4 @@
 - \[ \] task list
 - \[ \] task list
 - \[ \] task list
-- \[ \] task list
+- \[x\] task list
